@@ -8,6 +8,13 @@ Sy_spin_half_Op.jl
 
 Sz_spin_half_Op.jl
 
+
+include("Sx_spin_half_Op.jl")
+include("Sy_spin_half_Op.jl")
+include("Sz_spin_half_Op.jl")
+
+
+
 Inputs
 
 {Sites, Site, Spin}
