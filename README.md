@@ -3,7 +3,9 @@ Modules for spin half operators that can be used to calculate on site local obse
 
 ### Sparknotes
 Sx_spin_half_Op.jl
+
 Sy_spin_half_Op.jl
+
 Sz_spin_half_Op.jl
 
 Inputs
