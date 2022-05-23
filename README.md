@@ -10,7 +10,9 @@ Sz_spin_half_Op.jl
 
 
 include("Sx_spin_half_Op.jl")
+
 include("Sy_spin_half_Op.jl")
+
 include("Sz_spin_half_Op.jl")
 
 
@@ -21,4 +23,4 @@ Inputs
 
 Output
 
-Sx or Sy or Sz operator
+$S_i^x$ or $S_i^y$ or $S_i^z$  many body on site operators
