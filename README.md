@@ -1,5 +1,5 @@
 # Spin_Half_Operators
-Modules for spin half operators that can be used to calculate on site local observables and correlation functions.
+Modules for spin half operators that can be used to calculate on site local observables and correlation functions. These functions produce the Spin matrices for many body magnetic systems for spin 1/2.
 
 ### Sparknotes
 Sx_spin_half_Op.jl
@@ -24,3 +24,4 @@ Inputs
 Output
 
 $S_i^x$ or $S_i^y$ or $S_i^z$  many body on site operators
+
